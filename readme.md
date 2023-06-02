@@ -12,10 +12,13 @@ Bij dit project heb ik een color generator gemaakt, er worden 100 kaartjes aange
 ## Screenshots
 
 ### Desktop Screenshot
-![Het gerealiseerde eindproduct op desktop.]()
+![Het gerealiseerde eindproduct op desktop.](https://github.com/roan-eb/Color-Picker/blob/main/img/Screenshot%202023-06-02%20at%209.08.13%20PM.png)
+
+![Het gerealiseerde eindproduct op desktop.](https://github.com/roan-eb/Color-Picker/blob/main/img/Screenshot%202023-06-02%20at%209.08.39%20PM.png)
+
 
 ### Mobile Screenshot
-![Het gerealiseerde eindproduct op mobile.]()
+![Het gerealiseerde eindproduct op mobile.](https://github.com/roan-eb/Color-Picker/blob/main/img/Screenshot%202023-06-02%20at%209.09.14%20PM.png)
 
 ## Live demo
 -
